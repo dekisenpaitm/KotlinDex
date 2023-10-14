@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">KotlinDex</string>
+    <string name="field_email">email</string>
+    <string name="field_password">password</string>
+    <string name="button_send">Send</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="InfoPageText">Greetings, Trainer! Are you ready to embark on an exciting journey through the world of Pokémon with your very own Pokedex app?&#10;&#10;Your Pokedex is your trusty companion on this adventure, providing you with invaluable information about these remarkable creatures.</string>
+    <string name="title_activity_main3">MainActivity3</string>
 </resources>
